@@ -1,0 +1,8 @@
+1. git init
+2. git branch -M main
+3. git remote add origin https://.......
+4. git add .
+5. git status
+6. git commit -m "message"
+7. git add --all
+8. git push -u origin main
