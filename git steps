@@ -6,3 +6,23 @@
 6. git commit -m "message"
 7. git add --all
 8. git push -u origin main
+
+
+* for push your work - end of the day
+git add .
+git commit -m ""
+git push origin hardik
+
+git checkout development
+git merge hardik
+git push origin development
+
+--------------------------------------------------------
+
+* for pull work - start of the day
+git checkout development
+git pull origin development
+
+git checkout hardik
+git merge development
+git push origin hardik
